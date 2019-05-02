@@ -1,0 +1,2 @@
+FTN95.EXE "D:\Fortran Projects\The Josephus Problem\main.f95" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /CHECKMATE /FPP /CFPP /BINARY "CheckMate\Win32\main.obj" 
+slink.exe -OUT:"CheckMate\Win32\The Josephus Problem.exe" @"D:\Fortran Projects\The Josephus Problem\link.lst" 
